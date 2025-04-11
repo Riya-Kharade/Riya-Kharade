@@ -1,7 +1,4 @@
-<!-- Banner Section (Replace with your custom banner link) -->
-<p align="center">
-  <img src="https://stock.adobe.com/in/search?k=%22web+development%22" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Riya Sunil Kharade</h1>
 <h3 align="center">💻 A Passionate Web Developer from India</h3>
