@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Riya Sunil Kharade</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-🔭 I’m currently working on **Holiday Homes Management System**
-🌱 I’m currently learning **AI/ML and React**
-👨‍💻 All of my projects are available at [my GitHub](https://github.com/Riya-Kharade)
-💬 Ask me about **Web Development, Java**
-📫 How to reach me: **riyasunilkharade.vit@gmail.com**
+- 🔭 I’m currently working on **Holiday Homes Management System**
+- 🌱 I’m currently learning **AI/ML and React**
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/Riya-Kharade)
+- 💬 Ask me about **Web Development, Java**
+- 📫 How to reach me: **riyasunilkharade.vit@gmail.com**
 
 ---
 
