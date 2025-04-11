@@ -44,7 +44,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=vue)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=vue)
 " alt="Riya's GitHub stats"/>
 </p>
 
