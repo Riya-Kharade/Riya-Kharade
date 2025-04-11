@@ -1,6 +1,6 @@
 <!-- Banner Section (Replace with your custom banner link) -->
 <p align="center">
-  <img src="https://your-banner-image-link.com" alt="banner" />
+  <img src="https://stock.adobe.com/in/search?k=%22web+development%22" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Riya Sunil Kharade</h1>
