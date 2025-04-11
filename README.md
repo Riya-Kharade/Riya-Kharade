@@ -16,13 +16,13 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/riya-kharade" target="_blank">
+  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/share/146pZMWnDV/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/riiyaasunil?igsh=MW12bW5nbXhkdTZoeQ==" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -49,7 +49,4 @@
 
 ---
 
-### 🎨 Fun Illustration:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coder GIF" width="400"/>
-</p>
+
