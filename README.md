@@ -4,7 +4,7 @@
 <h3 align="center">💻 A Passionate Web Developer from India</h3>
 
 ---
-🎯 I’m currently working on **Holiday Homes Management System**  
+🎯 I’m currently working on Project **Holiday Homes Management System**  
 🌱 I’m currently learning **AI/ML and React**  
 👩‍💻 All of my projects are available on [GitHub](https://github.com/riya-kharade)  
 💬 Ask me about **Web Development, Java**  
