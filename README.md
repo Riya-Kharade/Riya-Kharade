@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Riya%20Kharade&fontAlign=center&fontColor=ffffff&color=6a11cb,2575fc"/>
 </p>
 
-<h1 align="center" style="color:#6a11cb; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">👩‍💻 Web Developer | DSA Learner | Engineering Student @ VIT Mumbai</h1>
+<h1 align="center" style="color:#6a11cb; font-weight:bold; font-size:2rem; text-shadow: 1px 1px 2px #aaa;">👩‍💻 Web Developer | DSA Learner | Engineering Student @ VIT Mumbai</h1>
 
 <p align="center" style="color:#444">
   👋 Hi there! I'm Riya, passionate about building beautiful and user-centric web applications. I love combining design and code to create seamless digital experiences.
