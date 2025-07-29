@@ -13,6 +13,7 @@
 
 ---
 
+
 ### 💻 Tech Stack
 
 <p align="center">
@@ -43,52 +44,36 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-">
-        <img src="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-/assets/preview.gif" width="100%" alt="Holiday Homes"/>
-        <br/><strong>Holiday Homes Management</strong>
-      </a>
-      <p>HTML, CSS, JS, Firebase</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website">
-        <img src="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website/assets/preview.gif" width="100%" alt="Studio"/>
-        <br/><strong>Photo Studio Website</strong>
-      </a>
-      <p>HTML, CSS, Bootstrap</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-">
-        <img src="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-/assets/preview.gif" width="100%" alt="RPS Game"/>
-        <br/><strong>Rock Paper Scissors (OpenCV)</strong>
-      </a>
-      <p>Python, OpenCV</p>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Riya-Kharade/Library-Management-System">
-        <img src="https://github.com/Riya-Kharade/Library-Management-System/assets/preview.gif" width="100%" alt="Library"/>
-        <br/><strong>Library Management System</strong>
-      </a>
-      <p>Shell Scripting</p>
-    </td>
-  </tr>
-</table>
+| Project Name | Description | GitHub Link |
+|--------------|-------------|-------------|
+| **Holiday Homes Management System** | A website to manage holiday home bookings and customer records | [GitHub](https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-) |
+| **Photo Studio Website** | A professional website for Dongare Photo Studio | [GitHub](https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website) |
+| **Rock Paper Scissors Game (OpenCV)** | Hand gesture recognition game using Python & OpenCV | [GitHub](https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-) |
+| **Library Management System (OS Shell Scripting)** | Terminal-based library management project using shell scripting | [GitHub](https://github.com/Riya-Kharade/Library-Management-System) |
 
 <p align="center">
-  🚀 Currently Contributor at: <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/>
+  🚀 Currently Contributor at:<br> <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🎨 My Portfolio
+### 🏆 Hackathon Participation
 
-> 🔗 [Visit My Portfolio](https://riya-kharade.netlify.app) — UI-rich, responsive design, built with 💙 by me.
+- 💡 Participated at **PICT Hackathon**, Pune
+- 🏅 Team **Antarang Hacks** selected in **Top 12** out of 75+ teams at Oscillation 2025, hosted by **Vasantdada Patil College of Engineering & Visual Arts**
+
+---
+
+### 📜 Certifications
+
+- 🧠 **IIT Bombay** – SAR Processing Course
+- 🤖 **Machine Learning with Python**
+- 🎓 **TCS iON Career Edge – Young Professional Program**
+- 🏅 HTML5 – Infosys Springboard  
+- 📘 Java Programming – NPTEL  
+- 🌐 Web Development – Coursera
 
 ---
 
@@ -102,11 +87,6 @@
 
 ---
 
-### 🌙 Light/Dark Mode
-
-> You can view this profile in both light and dark mode depending on your GitHub theme settings 🌗
-
----
 
 ### 📫 Let's Connect!
 
