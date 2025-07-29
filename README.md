@@ -1,6 +1,8 @@
 <!-- GitHub Profile README for Riya Sunil Kharade -->
 
 <!-- 🌊 Header with Gradient Background -->
+<div style="background-color:#f4f4f4;padding:20px;">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Riya%20Kharade&fontAlign=center&fontColor=ffffff&color=6a11cb,2575fc"/>
 </p>
