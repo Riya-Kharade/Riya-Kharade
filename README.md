@@ -45,27 +45,66 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Holiday Home Management System](https://github.com/riya-kharade) | Web platform for holiday booking and updates | HTML, CSS, JS, Firebase |
-| [Photo Studio Website](https://github.com/riya-kharade) | Website for photo studio services & portfolio | HTML, CSS, Bootstrap |
-| [Rock Paper Scissor Game](https://github.com/riya-kharade) | Simple game to play against computer | JavaScript, CSS |
-| [Library Management Using OS Shell Scripting](https://github.com/riya-kharade) | Console-based project using OS scripting | Bash Shell |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-">
+        <img src="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-/assets/preview.gif" width="100%" alt="Holiday Homes"/>
+        <br/><strong>Holiday Homes Management</strong>
+      </a>
+      <p>HTML, CSS, JS, Firebase</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website">
+        <img src="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website/assets/preview.gif" width="100%" alt="Studio"/>
+        <br/><strong>Photo Studio Website</strong>
+      </a>
+      <p>HTML, CSS, Bootstrap</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-">
+        <img src="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-/assets/preview.gif" width="100%" alt="RPS Game"/>
+        <br/><strong>Rock Paper Scissors (OpenCV)</strong>
+      </a>
+      <p>Python, OpenCV</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Riya-Kharade/Library-Management-System">
+        <img src="https://github.com/Riya-Kharade/Library-Management-System/assets/preview.gif" width="100%" alt="Library"/>
+        <br/><strong>Library Management System</strong>
+      </a>
+      <p>Shell Scripting</p>
+    </td>
+  </tr>
+</table>
 
-<p><strong>🚀 Currently Contributor at:</strong> <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/></p>
+<p align="center">
+  🚀 Currently Contributor at: <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 My Portfolio
+
+> 🔗 [Visit My Portfolio](https://riya-kharade.netlify.app) — UI-rich, responsive design, built with 💙 by me.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" width="33%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" width="40%"/>
-</p>
+---
+
+### 🌙 Light/Dark Mode
+
+> You can view this profile in both light and dark mode depending on your GitHub theme settings 🌗
 
 ---
 
