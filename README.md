@@ -1,54 +1,76 @@
-
-
 <h1 align="center">Hi 👋, I'm Riya Sunil Kharade</h1>
-<h3 align="center">💻 A Passionate Web Developer from India</h3>
+<h3 align="center">💻 Passionate Web Developer | UI Enthusiast | India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Web+Development+%7C+UI+Design+%7C+AI%2FML+Learning;Let's+Build+Something+Awesome+Together!" alt="Typing SVG" />
+</p>
 
 ---
-🎯 I’m currently working on Project **Holiday Homes Management System**  
-🌱 I’m currently learning **AI/ML and React**  
-👩‍💻 All of my projects are available on [GitHub](https://github.com/riya-kharade)  
-💬 Ask me about **Web Development, Java**  
+
+🎯 Currently working on: **E-Waste Management System**  
+🌱 Learning: **AI/ML** and **React**  
+👩‍💻 Projects available at: [GitHub](https://github.com/riya-kharade)  
+💬 Ask me about: **Web Development**, **Java**, **UI Design**  
 📫 Reach me at: [riyasunilkharade.vit@gmail.com](mailto:riyasunilkharade.vit@gmail.com)  
 🌐 Portfolio: [riya-kharade.netlify.app](https://riya-kharade.netlify.app)  
-😄 Fun fact: *I love creating clean and interactive UIs!*
-
-
+😄 Fun fact: *I enjoy building clean, accessible, and user-friendly web experiences!*
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/riiyaasunil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/146pZMWnDV/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/riiyaasunil?igsh=MW12bW5nbXhkdTZoeQ==" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-</p>
+### 🛠️ Languages & Tools
 
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=default" alt="Riya's GitHub stats"/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <br/>
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/48/database.png" title="Database" alt="Database" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="Machine Learning (TensorFlow)" alt="TensorFlow" width="50" height="50"/>
 </p>
 
 ---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=calm" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riya-kharade&theme=calm" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=calm" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Profile Visitor Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riya-kharade&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
