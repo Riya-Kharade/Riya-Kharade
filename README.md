@@ -80,9 +80,15 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" width="33%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" width="33%"/>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" height="200"/>
+  </a>
 </p>
 
 ---
