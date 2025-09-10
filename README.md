@@ -75,8 +75,7 @@
 - 🤖 **Machine Learning with Python**
 - 🎓 **TCS iON Career Edge – Young Professional Program**
 - 🏅 HTML5 – Infosys Springboard  
-- 📘 Java Programming – NPTEL  
-- 🌐 Web Development – Coursera
+
 
 ---
 
