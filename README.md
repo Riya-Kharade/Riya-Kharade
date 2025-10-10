@@ -1,209 +1,112 @@
-[![Join our group on Discord](https://github.com/user-attachments/assets/f7be9334-dd82-4c36-83d4-2e21bfca7633)](https://discord.gg/a2zdpnfZ)
+<!-- GitHub Profile README for Riya Sunil Kharade -->
 
-# 🌱 GrowCraft
+<!-- 🌊 Header with Gradient Background -->
+<div style="background-color:#f4f4f4;padding:20px;">
 
-GrowCraft is a **service-based platform** designed to help businesses grow online while also providing students with hands-on experience through training and internships.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Riya%20Kharade&fontAlign=center&fontColor=ffffff&color=6a11cb,2575fc"/>
+</p>
 
-> 🏆 **This repository is part of GirlScript Summer of Code 2025 (GSSoC'25)**  
-> Contributions from the community are welcome!
+<h1 align="center" style="color:#6a11cb; font-weight:bold; font-size:2.2rem; text-shadow: 1px 1px 2px #aaa;">👩‍💻Web Developer | DSA Learner | Engineering Student @VIT Mumbai</h1>
 
----
-## 📑Table of Contents
-
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Contributors](#contributors)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Screenshots](#screenshots)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
-
-
-
----
----
-
-##  Features
-
-- 🌐 **Website Development**
-- 🖌️ **Graphic Design**
-- ✍️ **Content Writing**
-- 📣 **Social Media Management**
-- 📊 **Digital Marketing**
-- 🎓 **Training & Internship Programs**
-
-This platform offers services to clients and creates opportunities for students to learn by doing.
+<p align="center" style="color:#444">
+  👋 Hi there! I'm Riya, passionate about building beautiful and user-centric web applications. I love combining design and code to create seamless digital experiences.
+</p>
 
 ---
 
-##  Folder Structure
 
-```
-GrowCraft/
-├── index.html
-├── login.html
-├── signup.html
-├── about.html
-├── blogListing.html
-├── careers.html
-├── privacy.html
-├── terms.html
-├── work.html
-├── register_condition.html
-├── register_terms.html
-├── sitemap.html
-├── contact.html
-│
-├── contact-handler.php
-├── database_schema.sql
-│
-├── images/
-│ ├── (website images and icons)
-│
-├── src/
-│ ├── contact.html
-│ ├── blogs.css / blogs.js
-│ ├── style.css / script.js
-│ ├── utils.js
-│ ├── web.html
-│ └── css/
-│ └── style.css
-```
----
+### 💻 Tech Stack
 
-## 🧭 Page Descriptions
-
-| Page | Description |
-|------|--------------|
-| **index.html** | Landing page introducing GrowCraft and its core services. |
-| **login.html** | User login page for returning users and contributors. |
-| **signup.html** | Registration page for new users or students joining programs. |
-| **about.html** | About GrowCraft, its mission, and team background. |
-| **blogListing.html** | Displays a list of all blogs shared on the platform. |
-| **careers.html** | Showcases current openings, internships, and career opportunities. |
-| **privacy.html** | Details GrowCraft’s privacy policy and data protection practices. |
-| **terms.html** | Displays terms of service for website and service usage. |
-| **work.html** | Portfolio page showing GrowCraft’s completed and ongoing projects. |
-| **register_condition.html** | Displays eligibility and participation conditions for programs. |
-| **register_terms.html** | Additional registration-specific terms for contributors. |
-| **sitemap.html** | Overview of the entire site structure for easy navigation. |
-| **contact.html** | Contact form for user queries and feedback. |
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-8892BE?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+</p>
 
 ---
-##  Contributors
-<a href="https://github.com/gyanshankar1708/GrowCraft/graphs/contributors">
 
-Made with [contrib.rocks](https://contrib.rocks).
+### 🛠️ Tools I Use
 
-<img src="https://contrib.rocks/image?repo=gyanshankar1708/GrowCraft" />
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" />
+</p>
 
 ---
-##  Tech Stack
 
-- **Frontend:** HTML5, CSS3, Bootstrap 5.3  
-- **Scripting:** JavaScript (vanilla)  
-- **Backend (minimal):** PHP (for contact form handler)  
-- **Database:** MySQL (schema included)
+### 🌟 Projects
+
+
+| Project Name | Description | GitHub Link |
+|--------------|-------------|-------------|
+| **Holiday Homes Management System** | A website to manage holiday home bookings and customer records | <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-" style="text-decoration:none;">GitHub</a> |
+| **Photo Studio Website** | A professional website for Dongare Photo Studio | <a href="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website" style="text-decoration:none;">GitHub</a> |
+| **Rock Paper Scissors Game (OpenCV)** | Hand gesture recognition game using Python & OpenCV | <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-" style="text-decoration:none;">GitHub</a> |
+| **Library Management System (OS Shell Scripting)** | Terminal-based library management project using shell scripting | <a href="https://github.com/Riya-Kharade/Library-Management-System" style="text-decoration:none;">GitHub</a> |
+
+<p align="center">
+  🚀 Currently Contributor at:<br> <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 Hackathon Participation
+
+- 💡 Participated at **PICT Hackathon**, Pune
+- 🏅 Team **Antarang Hacks** selected in **Top 12** out of 75+ teams at Oscillation 2025, hosted by **Vasantdada Patil College of Engineering & Visual Arts**
+
+---
+
+### 📜 Certifications
+
+- 🧠 **IIT Bombay** – SAR Processing Course
+- 🤖 **Machine Learning with Python**
+- 🎓 **TCS iON Career Edge – Young Professional Program**
+- 🏅 HTML5 – Infosys Springboard  
 
 
 ---
 
-<div align="center">
+### 📈 GitHub Stats
 
-  <h1><u>Meet our Project Admin and Mentors</u></h1>
-
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/gyanshankar1708">
-          <img src="https://avatars.githubusercontent.com/u/155980409?v=4" width="100" alt="Gyanshankar Singh"/><br>
-          <sub><b>Gyanshankar Singh</b></sub>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Khababakhtar20">
-          <img src="https://avatars.githubusercontent.com/u/191676741?v=4" width="100" alt="Khabab Akhtar"/><br>
-          <sub><b>Khabab Akhtar</b></sub>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/abdullahxyz85">
-          <img src="https://avatars.githubusercontent.com/u/181183976?v=4" width="100" alt="Abdullah Jameel"/><br>
-          <sub><b>Abdullah Jameel</b></sub>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ayushkashyap402">
-          <img src="https://avatars.githubusercontent.com/u/161109248?v=4" width="100" alt="Ayush Kashyap"/><br>
-          <sub><b>Ayush Kashyap</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
+<p align="center">
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" height="200"/>
+  </a>
+</p>
 
 ---
 
-##  Getting Started
 
-### Prerequisites
-- A modern browser
-- (Optional) XAMPP / WAMP for running PHP contact form locally
+### 📫 Let's Connect!
 
-### Steps
-1. Clone the repository:
-   ```
-   git clone https://github.com/gyanshankar1708/GrowCraft.git
-   ```
-2. Open `index.html` in your browser to view the website.
-3. (Optional) To enable the contact form:
-   - Set up a local server (XAMPP/WAMP)
-   - Place the project in the `htdocs` folder
-   - Import `database_schema.sql` into MySQL
-   - Update the PHP configuration in `contact-handler.php`
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:riyasunilkharade.vit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/riiyaasunil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-##  Contributing
+### 🧠 Fun Fact
 
-We welcome contributions from everyone!  
-If you're participating through **GSSoC'25**:
+> "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 
-1. Look for issues labeled `GSSoC` or `good first issue`.
-2. Comment on the issue you'd like to work on and wait for assignment.
-3. Fork the repository, make your changes, and submit a PR.
-
-Please read our [Contributing Guidelines](src/CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
-
----
-
-##  Screenshots
-
-### Landing Page
-![Landing Page](images/index.png)
-
-### Services Section
-![Services](images/services.png)
-
-
-### Services Section
-![Registration](images/sign-up.png)
-
-
----
-
-##  License
-
-This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
-
----
-
-##  Acknowledgements
-
-- **GirlScript Summer of Code 2025 (GSSoC'25)** for providing an open-source platform
-- Project contributors and mentors
-- Open-source community for continuous inspiration
