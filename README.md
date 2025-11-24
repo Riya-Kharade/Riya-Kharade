@@ -56,6 +56,9 @@
 | **Rock Paper Scissors Game (OpenCV)** | Hand gesture recognition game using Python & OpenCV | <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-" style="text-decoration:none;">GitHub</a> |
 | **Library Management System (OS Shell Scripting)** | Terminal-based library management project using shell scripting | <a href="https://github.com/Riya-Kharade/Library-Management-System" style="text-decoration:none;">GitHub</a> |
 
+
+---
+
 ### 🌟 GSSoC 2025 Achievements
 
 - 📄 **Certificate of Recognition** for being in the **Top 50 Contributors**
