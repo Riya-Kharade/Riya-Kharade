@@ -59,29 +59,18 @@
 
 ---
 
-### 🌟 GSSoC 2025 Achievements
+### ✅ Achievements & Recognitions
 
-- 📄 **Certificate of Recognition** for being in the **Top 50 Contributors**
-- 🏆 **Ranked 13th** among all contributors in **GirlScript Summer of Code 2025**
-- ✉️ **Letter of Recommendation** received for securing a spot in the **Top 25 Contributors**
-- 🚀 Actively contributed to multiple open-source projects through issues, PRs, and collaboration
+- 📄 Top 50 Contributor, 🏆 Ranked 13th, ✉️ LoR recipient for Top 25, and 🚀 actively contributed through issues, PRs & collaborations in GSSoC 2025
+- 💡 Participated in PICT Hackathon, Pune
+- 🏅 Team Antarang Hacks secured Top 12 at Oscillation 2025 (75+ teams)
 
+### 🎓 Certifications
 
----
-
-### 🏆 Hackathon Participation
-
-- 💡 Participated at **PICT Hackathon**, Pune
-- 🏅 Team **Antarang Hacks** selected in **Top 12** out of 75+ teams at Oscillation 2025, hosted by **Vasantdada Patil College of Engineering & Visual Arts**
-
----
-
-### 📜 Certifications
-
-- 🧠 **IIT Bombay** – SAR Processing Course
-- 🤖 **Machine Learning with Python**
-- 🎓 **TCS iON Career Edge – Young Professional Program**
-- 🏅 HTML5 – Infosys Springboard  
+- 🧠 IIT Bombay – SAR Processing Course
+- 🤖 Machine Learning with Python
+- 🎓 TCS iON – Young Professional Program
+- 🏅 HTML5 – Infosys Springboard
 
 
 ---
