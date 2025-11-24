@@ -56,9 +56,13 @@
 | **Rock Paper Scissors Game (OpenCV)** | Hand gesture recognition game using Python & OpenCV | <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-" style="text-decoration:none;">GitHub</a> |
 | **Library Management System (OS Shell Scripting)** | Terminal-based library management project using shell scripting | <a href="https://github.com/Riya-Kharade/Library-Management-System" style="text-decoration:none;">GitHub</a> |
 
-<p align="center">
-  🚀 Currently Contributor at:<br> <img src="https://img.shields.io/badge/Girlscript%20Summer%20of%20Code-2025-purple?style=flat&logo=github&logoColor=white"/>
-</p>
+### 🌟 GSSoC 2025 Achievements
+
+- 📄 **Certificate of Recognition** for being in the **Top 50 Contributors**
+- 🏆 **Ranked 13th** among all contributors in **GirlScript Summer of Code 2025**
+- ✉️ **Letter of Recommendation** received for securing a spot in the **Top 25 Contributors**
+- 🚀 Actively contributed to multiple open-source projects through issues, PRs, and collaboration
+
 
 ---
 
