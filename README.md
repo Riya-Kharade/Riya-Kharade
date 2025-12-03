@@ -61,7 +61,7 @@
 
 ### ✅ Achievements & Recognitions
 
-- 📄 Top 50 Contributor, 🏆 Ranked 13th, ✉️ LoR recipient for Top 25, and 🚀 actively contributed through issues, PRs & collaborations in GSSoC 2025
+- 📄 Top 50 Contributor, 🏆 Ranked 14th, ✉️ LoR recipient for Top 25, and 🚀 actively contributed through issues, PRs & collaborations in GSSoC 2025
 - 💡 Participated in PICT Hackathon, Pune
 - 🏅 Team Antarang Hacks secured Top 12 at Oscillation 2025 (75+ teams)
 
