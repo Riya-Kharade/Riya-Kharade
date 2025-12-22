@@ -13,96 +13,144 @@
   👋 Hi there! I'm Riya, passionate about building beautiful and user-centric web applications. I love combining design and code to create seamless digital experiences.
 </p>
 
+
 ---
 
-
-### 💻 Tech Stack
+## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-8892BE?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php&perline=6" />
+</p>
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&perline=6" />
+</p>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" />
+</p>
+
+<p align="center">
+  <!-- AI / ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,python,sklearn&perline=5" />
+</p>
+
+
+<p align="center">
+  <!-- Databases & Tools -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,git,github,vscode,figma,canva&perline=10" />
 </p>
 
 ---
+## 🌟 Featured Projects
 
-### 🛠️ Tools I Use
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" />
-</p>
+<table style="width: 100%; max-width: 1000px; margin: auto; border-collapse: separate; border-spacing: 20px;">
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<!-- Smart E-Waste -->
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 15px; border: 1px solid rgba(93,139,244,0.3);">
+  <div style="height: 4px; background: linear-gradient(90deg, #5D8BF4, #2E57A5); border-radius: 4px 4px 0 0;"></div>
+  <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/e-waste.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
+  <div style="padding: 10px;">
+    <b>♻️ Smart E-Waste Management System</b><br><br>
+    <a href="https://github.com/Riya-Kharade/smart-e-waste-management" target="_blank" style="text-decoration:none; font-weight:600;">🔗 GitHub</a>
+  </div>
+</div>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<!-- Holiday Homes -->
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 15px; border: 1px solid rgba(78,205,196,0.3);">
+  <div style="height: 4px; background: linear-gradient(90deg, #4ECDC4, #2A9D8F); border-radius: 4px 4px 0 0;"></div>
+  <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/holiday.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
+  <div style="padding: 10px;">
+    <b>🏡 Holiday Homes Management System</b><br><br>
+    <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Code</a>
+  </div>
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+<!-- AI Games -->
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 15px; border: 1px solid rgba(167,139,250,0.3);">
+  <div style="height: 4px; background: linear-gradient(90deg, #9B5DE5, #7209B7); border-radius: 4px 4px 0 0;"></div>
+  <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/ai-game.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
+  <div style="padding: 10px;">
+    <b>🎮 AI Collection of Games</b><br><br>
+    <a href="https://github.com/Riya-Kharade/AI-Game-Collection" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Code</a>
+  </div>
+</div>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<!-- Photo Studio -->
+<div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 15px; border: 1px solid rgba(255,107,107,0.3);">
+  <div style="height: 4px; background: linear-gradient(90deg, #FF6B6B, #FF8E53); border-radius: 4px 4px 0 0;"></div>
+  <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/photo.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
+  <div style="padding: 10px;">
+    <b>📸 Photo Studio Website (Live)</b><br><br>
+    <a href="https://dongare-photo-studio.netlify.app/" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Live</a>
+  </div>
+</div>
+
+</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
-### 🌟 Projects
-
-
-| Project Name | Description | GitHub Link |
-|--------------|-------------|-------------|
-| **Holiday Homes Management System** | A website to manage holiday home bookings and customer records | <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-" style="text-decoration:none;">GitHub</a> |
-| **Photo Studio Website** | A professional website for Dongare Photo Studio | <a href="https://github.com/Riya-Kharade/Dongare-Photo-Studio-Website" style="text-decoration:none;">GitHub</a> |
-| **Rock Paper Scissors Game (OpenCV)** | Hand gesture recognition game using Python & OpenCV | <a href="https://github.com/Riya-Kharade/Rock-Paper-Scissors-Game-using-Python-OpenCV-Hand-Gesture-Recognition-" style="text-decoration:none;">GitHub</a> |
-| **Library Management System (OS Shell Scripting)** | Terminal-based library management project using shell scripting | <a href="https://github.com/Riya-Kharade/Library-Management-System" style="text-decoration:none;">GitHub</a> |
-
-
 ---
 
-### ✅ Achievements & Recognitions
+## 🏆 GitHub Stats
 
-- 📄 Top 50 Contributor, 🏆 Ranked 14th, ✉️ LoR recipient for Top 25, and 🚀 actively contributed through issues, PRs & collaborations in GSSoC 2025
-- 💡 Participated in PICT Hackathon, Pune
-- 🏅 Team Antarang Hacks secured Top 12 at Oscillation 2025 (75+ teams)
-
-### 🎓 Certifications
-
-- 🧠 IIT Bombay – SAR Processing Course
-- 🤖 Machine Learning with Python
-- 🎓 TCS iON – Young Professional Program
-- 🏅 HTML5 – Infosys Springboard
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=github_dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-kharade&layout=compact&theme=github_dark" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=riya-kharade&theme=github-dark" />
+</div>
 
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/riya-kharade">
-    <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" height="200"/>
-  </a>
-  <a href="https://github.com/riya-kharade">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" height="200"/>
-  </a>
-  <a href="https://github.com/riya-kharade">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" height="200"/>
-  </a>
-</p>
-
----
-
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:riyasunilkharade.vit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/riiyaasunil"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
 
 ---
 
 ### 🧠 Fun Fact
 
 > "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
+
+---
+
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-kharade-9228ba341">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riyasunilkharade.vit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=600&lines=✨+Thank+You+for+Visiting+✨" />
+</h2>
+
+
 
