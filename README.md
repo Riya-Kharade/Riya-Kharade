@@ -60,7 +60,7 @@
   <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/e-waste.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
   <div style="padding: 10px;">
     <b>♻️ Smart E-Waste Management System</b><br><br>
-    <a href="https://github.com/Riya-Kharade/smart-e-waste-management" target="_blank" style="text-decoration:none; font-weight:600;">🔗 GitHub</a>
+    <a href="https://github.com/Riya-Kharade/smart-e-waste-management" target="_blank" style="text-decoration:none; font-weight:600;">🔗GitHub</a>
   </div>
 </div>
 
@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/holiday.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
   <div style="padding: 10px;">
     <b>🏡 Holiday Homes Management System</b><br><br>
-    <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Code</a>
+    <a href="https://github.com/Riya-Kharade/Holiday-Homes-Management-System-Website-" target="_blank" style="text-decoration:none; font-weight:600;">🔗Code</a>
   </div>
 </div>
 
@@ -90,7 +90,7 @@
   <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/ai-game.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
   <div style="padding: 10px;">
     <b>🎮 AI Collection of Games</b><br><br>
-    <a href="https://github.com/Riya-Kharade/AI-Game-Collection" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Code</a>
+    <a href="https://github.com/Riya-Kharade/AI-Game-Collection" target="_blank" style="text-decoration:none; font-weight:600;">🔗Code</a>
   </div>
 </div>
 
@@ -104,7 +104,7 @@
   <img src="https://raw.githubusercontent.com/Riya-Kharade/Riya-Kharade/main/assets/photo.png" width="100%" style="border-radius: 12px; margin-top: 10px;">
   <div style="padding: 10px;">
     <b>📸 Photo Studio Website (Live)</b><br><br>
-    <a href="https://dongare-photo-studio.netlify.app/" target="_blank" style="text-decoration:none; font-weight:600;">🔗 Live</a>
+    <a href="https://dongare-photo-studio.netlify.app/" target="_blank" style="text-decoration:none; font-weight:600;">🔗Live</a>
   </div>
 </div>
 
