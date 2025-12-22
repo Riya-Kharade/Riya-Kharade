@@ -142,6 +142,7 @@
 ---
 
 
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -151,7 +152,11 @@
   <a href="mailto:riyasunilkharade.vit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://riyakharade-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=111827&center=true&vCenter=true&width=600&lines=💫+Thank+You+for+Visiting+💫" />
