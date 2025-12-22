@@ -119,11 +119,17 @@
 ---
 ## 🏆 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&cache_bust=1" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-kharade&layout=compact&theme=radical&cache_bust=1" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=riya-kharade&theme=radical&cache_bust=1" />
-</div>
+<p align="center">
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api?username=riya-kharade&show_icons=true&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=riya-kharade&theme=radical&hide_border=true" height="200"/>
+  </a>
+  <a href="https://github.com/riya-kharade">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-kharade&layout=compact&theme=radical&hide_border=true" height="200"/>
+  </a>
+</p>
 
 
 
